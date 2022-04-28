@@ -13,7 +13,8 @@ A Simple Mobile auth built with Flutter.
 
 <!-- COMING SOON :screwdriver: :placard:	  -->
 
-
+![1](https://user-images.githubusercontent.com/82330891/165825864-82731fce-df5b-406b-b2fe-cc800618db25.JPG)
+[4](https://user-images.githubusercontent.com/82330891/165825862-3969ce5b-800d-4d26-81ac-d4bd4572a7e4.JPG)
 
 
 <!-- ## Result Screen -->
