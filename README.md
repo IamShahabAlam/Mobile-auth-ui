@@ -14,7 +14,7 @@ A Simple Mobile auth built with Flutter.
 <!-- COMING SOON :screwdriver: :placard:	  -->
 <img align="left" height="600px" width="300px" src="https://user-images.githubusercontent.com/82330891/165825864-82731fce-df5b-406b-b2fe-cc800618db25.JPG" />
 <img align="left" height="600px" width="300px" src="https://user-images.githubusercontent.com/82330891/165825858-e36dcddb-a625-47fb-a0cf-c0662bb21847.JPG" />
-<img align="left" height="600px" width="300px" src="https://user-images.githubusercontent.com/82330891/165825860-16f201a9-a2aa-4767-9a71-3c7bc54d58f3.JPG" />
+<img height="600px" width="300px" src="https://user-images.githubusercontent.com/82330891/165825860-16f201a9-a2aa-4767-9a71-3c7bc54d58f3.JPG" />
 <!-- <img align="left" height="600px" width="300px" src="https://user-images.githubusercontent.com/82330891/165825862-3969ce5b-800d-4d26-81ac-d4bd4572a7e4.JPG" /> -->
 
 
