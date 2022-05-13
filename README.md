@@ -5,6 +5,7 @@ A Simple Mobile auth built with Flutter.
 ## Features
 
 - Minimal UI
+- Yellow Theme
 - Textfiel Properties used
 - Icon under Circle Avatar
 - Curved Container
